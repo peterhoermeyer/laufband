@@ -1,0 +1,16 @@
+{
+    "name": "laufband",
+    "version": "0.0.1",
+    "babel": {
+        "plugins": [
+            "transform-react-jsx"
+        ],
+        "ignore": []
+    },
+    "dependencies": {
+        "react": "latest",
+        "react-dom": "latest"
+    },
+    "devDependencies": {
+    }
+}
